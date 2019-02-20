@@ -20,6 +20,8 @@ The application is run out of BASH command-line platform application from a java
 When running LIRI commands for each section should be entered in this way to allow the application to run successfully:
 
 1. Spotify API - to search the spotify API for song names, enter " node liri spotify-this <song name>. If necessary, enter the name of the artist as well to narrow the search.
+![Image](https://github.com/nbegray/liri-node/blob/master/images/spotify-this.png)
+
 
 2. Bands in Town API - to search the Bands in Town API for concert information , enter " node liri concert-this <artist name>. 
 
