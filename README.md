@@ -24,8 +24,12 @@ When running LIRI commands for each section should be entered in this way to all
 
 
 2. Bands in Town API - to search the Bands in Town API for concert information , enter " node liri concert-this <artist name>. 
+![Image](https://github.com/nbegray/liri-node/blob/master/images/concert-this.png)
+
 
 3. OMDB API - to search the OMDB API for movie information , enter " node liri movie-this <movie name>. 
+![Image](https://github.com/nbegray/liri-node/blob/master/images/movie-this.png)
 
 Additional functionality has been added with a "do-what-it-says" command where the application will pull information from the random.txt file and return the artist information in the terminal. This can be updated with any API to expand functionality for future product development. 
+![Image](https://github.com/nbegray/liri-node/blob/master/images/do-what-it-says.png)
 
